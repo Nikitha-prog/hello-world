@@ -1,2 +1,2 @@
 # hello-world
-=Just trying a repository
+Hi I am Nikitha, enrolled in Launch code to learn java script.
